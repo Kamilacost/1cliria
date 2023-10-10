@@ -7,3 +7,11 @@
 
 
 } 
+ .cabecalho{
+    color: #4a0266;
+ display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+
